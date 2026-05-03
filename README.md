@@ -13,19 +13,19 @@ planning. Built specifically to support an application for the
 
 Five interactive sections, navigated from the sidebar:
 
-1. **Channel Performance** — 12 months of multi-channel KPIs (Organic
+1. **Channel Performance** - 12 months of multi-channel KPIs (Organic
    Search, Google Ads, Email Newsletter, LinkedIn Organic, LinkedIn Ads,
    Direct), with cost-per-lead and conversion-rate views.
-2. **SEO Audit (Hilti.de)** — A hands-on technical SEO audit of 10 real
+2. **SEO Audit (Hilti.de)** - A hands-on technical SEO audit of 10 real
    Hilti.de pages, scored on content depth, on-page elements, mobile
    speed, and image alt coverage, with a recommended priority fix per page.
-3. **Keyword Research** — Opportunity mapping for the Heavy-Duty kabellos
+3. **Keyword Research** - Opportunity mapping for the Heavy-Duty kabellos
    and Nuron product clusters, with a difficulty-vs-opportunity scatter
    and a quick-win priority table.
-4. **Newsletter A/B Tests** — Subject line A/B test results across four
+4. **Newsletter A/B Tests** - Subject line A/B test results across four
    customer segments (Tiefbau, Elektroinstallation, Bau, Site Manager),
    with open rates calibrated to the 36-43% B2B benchmark range.
-5. **Content Calendar** — A 10-week editorial plan tied to Hilti's active
+5. **Content Calendar** - A 10-week editorial plan tied to Hilti's active
    campaigns: Heavy-Duty kabellos, Winterwochen 2026, ON!Track.
 
 ---
@@ -47,8 +47,8 @@ smallest honest version of that work, end to end.
 
 **What is real:**
 
-- **Hilti.de page URLs and product/campaign names** — Nuron, Heavy-Duty
-  kabellos, ON!Track, Winterwochen, SSM 22, Diamantbohrer — pulled from
+- **Hilti.de page URLs and product/campaign names**  Nuron, Heavy-Duty
+  kabellos, ON!Track, Winterwochen, SSM 22, Diamantbohrer,  pulled from
   the public Hilti Germany website.
 - **B2B email benchmark ranges** used to calibrate the newsletter data:
   open rates 36-43% (HubSpot, MailerLite, Brevo 2024-2025), CTR 2-4%,
