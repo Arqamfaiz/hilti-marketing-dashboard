@@ -5,7 +5,7 @@ SEO auditing, keyword research, newsletter A/B testing, and editorial
 planning. Built specifically to support an application for the
 **Working Student Online Marketing (m/f/d)** role at Hilti Deutschland AG.
 
-**Live demo:** [paste Streamlit Cloud link here once deployed]
+**Live demo:** https://hilti-marketing-dashboard-zgbevrqzomsnujzaskke3i.streamlit.app/
 
 ---
 
